@@ -1,3 +1,1 @@
 # nuxt-app
-
-main branch
