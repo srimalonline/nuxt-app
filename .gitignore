@@ -1,4 +1,5 @@
-node_modules
+.nuxt
+=======
 *.log*
 .nuxt
 .nitro
@@ -7,3 +8,4 @@ node_modules
 .env
 dist
 .DS_Store
+
